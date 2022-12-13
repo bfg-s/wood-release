@@ -1,6 +1,9 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.1.3
+ - Remove node-pty (Terminal)
+ - Clean code
 ## v0.1.2
  - Add autocomplete to codemirror editor
  - Add TCP rebuild and db fresh
