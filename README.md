@@ -2,6 +2,12 @@
 [wood.veskod.com](https://wood.veskod.com)
 
 ## v0.1.3
+ - Search by topics
+ - Event+Listeners generate
+ - PhpStorm support for class linking
+ - Nullable fields for clereable
+ - Remove every time connecting to tcp
+## v0.1.3
  - Remove node-pty (Terminal)
  - Clean code
 ## v0.1.2
