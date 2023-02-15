@@ -1,6 +1,26 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.2.5
+ - Fix, Custome cast
+ - Add codemirror to clone
+ - Autoupdater without ask
+ - Remember shift+shift commands
+## v0.2.4
+ - Shift+Shift helper
+## v0.2.3
+ - CodeMirror for exports
+ - CodeMirror for imports
+ - CodeMirror for json editor
+## v0.2.1
+ - Add autoupdater
+ - File finder for IDE
+## v0.2.0
+ - Search by topics
+ - Event+Listeners generate
+ - PhpStorm support for class linking
+ - Nullable fields for clereable
+ - Remove every time connecting to tcp
 ## v0.1.3
  - Search by topics
  - Event+Listeners generate
