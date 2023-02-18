@@ -1,6 +1,14 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.3.0
+ - Clone now
+ - Open in ide is feature now
+ - New feature, live edit
+ - Fix cast autocomplete
+ - New JSON editor
+ - New PJS editor
+ - Codemirror theme fix
 ## v0.2.5
  - Fix, Custome cast
  - Add codemirror to clone
