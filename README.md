@@ -1,6 +1,12 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.3.3
+ - Add multi search by comma
+ - Any register in search
+ - Remove autoupdater
+## v0.3.2
+ - Global search with select wariants
 ## v0.3.1
  - Fix codemirror height
  - Add new rule for query input form "full_width"
