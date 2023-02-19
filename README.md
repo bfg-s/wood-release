@@ -1,6 +1,9 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.3.1
+ - Fix codemirror height
+ - Add new rule for query input form "full_width"
 ## v0.3.0
  - Clone now
  - Open in ide is feature now
