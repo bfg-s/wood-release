@@ -1,6 +1,9 @@
 # Wood Application
 [wood.veskod.com](https://wood.veskod.com)
 
+## v0.3.4
+ - Mass open or close topics by Meta+Click
+ - New icons for opened or closed state of topics
 ## v0.3.3
  - Add multi search by comma
  - Any register in search
