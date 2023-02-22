@@ -1,6 +1,13 @@
 # Wood Application
-[wood.veskod.com](https://wood.veskod.com)
+Server: [wood.veskod.com](https://wood.veskod.com)
+Package: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
 
+## v0.3.5
+ - New mode with show or hide relations for topics
+ - By default all topics is hide
+ - New rule for field query (editable) for control live editing field
+ - Fix import bugs with codemirror
+ - Curret version of program in header
 ## v0.3.4
  - Mass open or close topics by Meta+Click
  - New icons for opened or closed state of topics
