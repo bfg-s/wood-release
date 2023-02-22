@@ -1,6 +1,6 @@
 # Wood Application
 ### Server: [wood.veskod.com](https://wood.veskod.com)
-### Package: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
+### Package for laravel: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
 
 ## v0.3.5
  - New mode with show or hide relations for topics
