@@ -2,6 +2,10 @@
 ### Server: [wood.veskod.com](https://wood.veskod.com)
 ### Package for laravel: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
 
+## v0.3.6
+ - Show relation details by default
+ - Global search by shift+shift
+ - Click by topic child name for open or close
 ## v0.3.5
  - New mode with show or hide relations for topics
  - By default all topics is hide
