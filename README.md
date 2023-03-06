@@ -2,6 +2,8 @@
 ### Server: [wood.veskod.com](https://wood.veskod.com)
 ### Package for laravel: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
 
+## v0.4.0
+ - Secure release
 ## v0.3.6
  - Show relation details by default
  - Global search by shift+shift
