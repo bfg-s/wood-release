@@ -3,6 +3,9 @@
 ### Server: [wood.veskod.com](https://wood.veskod.com)
 ### Package for laravel: [https://packagist.org/packages/bfg/wood](https://packagist.org/packages/bfg/wood)
 
+## v0.6.0
+ - Multilanguage (added Ukraine language)
+ - Fix background bottom white line
 ## v0.5.0
  - Add new feature - FIle list
 ## v0.4.0
